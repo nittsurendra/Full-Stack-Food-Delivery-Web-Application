@@ -115,6 +115,7 @@ Pay using dummy visa card
 Use the admin panel to manage orders, menu items.
 
 ## Screenshots
+![Screenshot 2024-08-03 151825](https://github.com/user-attachments/assets/2dc29d50-0b1b-409a-ae1e-a0c553b2a3ff)
 ![Screenshot 2024-08-02 174503](https://github.com/user-attachments/assets/79446e36-1a0f-4b7f-9767-6a7b8ddb850c)
 ![Screenshot 2024-08-02 174512](https://github.com/user-attachments/assets/45075b32-706c-4d0d-82c9-278780ffb65c)
 ![Screenshot 2024-08-02 174525](https://github.com/user-attachments/assets/d3be8b14-bd0d-463f-b495-0526dad39154)
