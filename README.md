@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Full Stack Food Delivery Web Application (MERN Stack)
 
 ## Table of Contents
@@ -41,6 +40,9 @@ This is a full-stack food ordering web application built using the MERN stack (M
 https://github.com/nittsurendra/Full-Stack-Food-Delivery-Web-Application.git
 cd mern-food-delivery-app
 ```
+## Login detail:
+Email: test@gmail.com
+Password: 123456789
 
 ## Backend Setup
 Navigate to the backend directory:
